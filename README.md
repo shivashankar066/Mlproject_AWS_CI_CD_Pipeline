@@ -1,4 +1,4 @@
- # End To End ML Project Implementation 
+ # AWS CI-CD Pipeline
 ## Gemstone Price Prediction - Shivashankar Rampur
 Introduction About the Data :
 The dataset The goal is to predict price of given diamond (Regression Analysis).
